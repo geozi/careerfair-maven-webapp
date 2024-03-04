@@ -15,7 +15,7 @@
 
       <!--Header row-->
       <header class="row text-center bg-light">
-        <h1>Congragulations!</h1>
+        <h1>Congratulations!</h1>
       </header>
 
       <!--Main row-->
